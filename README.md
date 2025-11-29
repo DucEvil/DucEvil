@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm DucEvil
 
-![Snake animation](https://raw.githubusercontent.com/DucEvil/snk/output/github-contribution-grid-snake.svg)
+![Snake Game](https://raw.githubusercontent.com/DucEvil/snk/output/github-contribution-grid-snake.svg)
 
 ## 🛠️ Technologies & Tools
 - JavaScript, Python, React, Node.js
