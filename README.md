@@ -1,10 +1,5 @@
-# Hi there! 👋 I'm DucEvil
-
-![Snake Game](https://raw.githubusercontent.com/DucEvil/snk/output/github-contribution-grid-snake.svg)
-
-## 🛠️ Technologies & Tools
-- JavaScript, Python, React, Node.js
-- Git, GitHub, VS Code
-
-## 📈 GitHub Stats
-<!-- Có thể thêm GitHub stats sau -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DucEvil/snk/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DucEvil/snk/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake Game" src="https://raw.githubusercontent.com/DucEvil/snk/output/github-contribution-grid-snake.svg" />
+</picture>
